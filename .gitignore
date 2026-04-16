@@ -28,6 +28,9 @@ wheels/
 training
 testing
 
+# Data files
+*.csv
+
 # Jupyter
 .ipynb_checkpoints/
 
