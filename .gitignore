@@ -42,7 +42,6 @@ testing
 Thumbs.db
 
 # Project-specific
-*.csv
 *.pkl
 *.h5
 .env
